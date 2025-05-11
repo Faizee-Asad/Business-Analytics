@@ -48,4 +48,11 @@ Agenda for this session
 
 [Basic Arithmetic Operations Question.xlsx](https://github.com/user-attachments/files/20150809/Basic.Arithmetic.Operations.Question.xlsx)
 
+# Data type on Excel
+
+* Numerical Data: Numbers are recorded on spreadsheetm and operatations are performed on these numbers. Numbers record things like sales of a shop, marks of stduent, and similar numerical data.
+* Text Data: Excel can also record text data in cells. Text is used to record names, unique identifiers etc.
+* Date, Currency, and Boolean
+* Changing cell formatting
+
   
