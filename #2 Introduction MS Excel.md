@@ -99,6 +99,15 @@ This is useful in many cases - for eg. All values in a row/column
 
 [Absolute ref.xlsx](https://github.com/user-attachments/files/20151043/Absolute.ref.xlsx)
 
+# Mixed References
+
+As the name suggests, these are references in which one part is absolute and the ither part is relative..
+
+Example 
+
+A$2 - A = dynamic part $2 = fixed 2nd rows
+$B2
+
 
 
 
