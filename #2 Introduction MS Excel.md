@@ -25,3 +25,27 @@ Workbook versus worksheet
 * Every excel file is a workbook.
 
 ![1707814562phpzLDmMA](https://github.com/user-attachments/assets/b87f2d92-232b-4771-a055-d915506ee48c)
+
+# Navigation MS Excel
+
+* File
+* Home
+* Insert
+* Page Layout
+* Formula
+* Data
+* Review
+* View
+* Help
+
+________________________________________________________________________________________________________________________________________________
+
+Agenda for this session
+
+* Data types
+* Basic Arthmetc Operations
+* Sorting and Filtering
+
+[Basic Arithmetic Operations Question.xlsx](https://github.com/user-attachments/files/20150809/Basic.Arithmetic.Operations.Question.xlsx)
+
+  
