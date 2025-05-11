@@ -55,4 +55,53 @@ Agenda for this session
 * Date, Currency, and Boolean
 * Changing cell formatting
 
-  
+_______________________________________________________________________________________________________________________________________________________
+
+# In our previous session we learned
+
+* Spreadsheet Operation - Tabele (row and column (cell)) Operations ( + - * / )
+* Excel alternative - excel paid google sheet free.
+* Basic Excel Operators - + - / *
+* Sorting and Filtering data. - fitler the value, sort 
+
+ # In this session, we will be learning
+
+ * Cell references
+ * Introduction to a larget dataset
+ * writing excel functions
+ * important Text functions
+
+# Cell References 
+
+A cell is an intersection between a row and a column. in a spreadsheet, values are stored in a cell.
+
+Cell references is like an address for a cell. if a cell falls under column A and row 10, the reference for that cell is A10.
+
+# Relative references
+
+All the references we have used so far are Relative references.
+Relative refrences changes when the formula is copied to another cell.
+
+# Absolute references.
+
+This reference does not change when the formula is moved across cells.
+
+Sample - $A$1
+
+When $ sign is put before a column header or row number. it lock that specific rows and column. when this refrence is moved to othes . $A$1 does not automactically changes.
+
+This is useful in many cases - for eg. All values in a row/column
+
+
+![Cell-Reference-in-Excel-1](https://github.com/user-attachments/assets/67fd13cb-4fec-45a7-85a6-4f23db9a446e)
+
+[cell reference.xlsx](https://github.com/user-attachments/files/20150957/cell.reference.xlsx)
+
+[Absolute ref.xlsx](https://github.com/user-attachments/files/20151043/Absolute.ref.xlsx)
+
+
+
+
+
+
+
